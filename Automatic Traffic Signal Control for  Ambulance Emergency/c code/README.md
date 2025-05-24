@@ -107,3 +107,5 @@ Check out the file `sound_trigger_led.ino`
 
  "I’m incredibly grateful to have worked with such a cooperative and uplifting team. You all made even the busiest days feel light and enjoyable!"
 
+ ![Image](https://github.com/user-attachments/assets/85b4c588-481c-40b7-8503-4b896b487b7f)
+
