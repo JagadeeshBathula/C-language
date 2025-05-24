@@ -51,10 +51,15 @@ Optionally, resuming normal traffic light cycles (extendable logic).
 Code Snippet:
 
 if (soundLevel > SOUND_THRESHOLD && !ledIsOn)
+
 {
-    digitalWrite(LED_PIN, HIGH);   // Green light ON
-    ledOnStart = millis();         // Start emergency timer
-    ledIsOn = true;
+
+ digitalWrite(LED_PIN, HIGH);   // Green light ON
+    
+ ledOnStart = millis();         // Start emergency timer
+    
+ ledIsOn = true;
+ 
 }
 
 Code Behavior:
