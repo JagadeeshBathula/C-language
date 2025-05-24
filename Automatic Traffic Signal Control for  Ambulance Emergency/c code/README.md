@@ -109,3 +109,9 @@ Check out the file `sound_trigger_led.ino`
 
  ![Image](https://github.com/user-attachments/assets/85b4c588-481c-40b7-8503-4b896b487b7f)
 
+
+ ### Prototype 
+
+ ![Image](https://github.com/user-attachments/assets/097d943a-2a5e-406a-9ec0-223beb82df90)
+
+
