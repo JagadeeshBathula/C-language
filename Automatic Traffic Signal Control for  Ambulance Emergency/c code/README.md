@@ -95,6 +95,12 @@ Improve emergency vehicle mobility and reduce response time.
 
 It’s a great foundation for more advanced intelligent traffic systems using IoT and AI.
 
-## Explanation Video
+### Explanation Video
+
+Go through the video in the file `Explanation Video.mp4`
+
+### Code file 
+
+Check out the file `sensor
 
 
