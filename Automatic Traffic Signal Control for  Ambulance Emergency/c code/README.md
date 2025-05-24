@@ -1,4 +1,4 @@
-### 🚑 Project Title:
+
 
 # Automatic Traffic Signal Control for Ambulance Emergency Using Sound Detection
 
@@ -103,4 +103,7 @@ Go through the video in the file `Explanation Video.mp4`
 
 Check out the file `sound_trigger_led.ino` 
 
+### Special Thanks
+
+ "I’m incredibly grateful to have worked with such a cooperative and uplifting team. You all made even the busiest days feel light and enjoyable!"
 
