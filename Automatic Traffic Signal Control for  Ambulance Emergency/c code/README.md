@@ -101,6 +101,6 @@ Go through the video in the file `Explanation Video.mp4`
 
 ### Code file 
 
-Check out the file `sensor
+Check out the file `sound_trigger_led.ino` 
 
 
