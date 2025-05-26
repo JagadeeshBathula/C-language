@@ -36,7 +36,7 @@ When a sound exceeding a predefined threshold (set to detect ambulance siren lev
 
 Turns the green LED ON (simulating green traffic signal).
 
-Turns red LEDs OFF (simulating stop signal for other lanes).
+Turns red LEDs ON for onther lines (simulating stop signal for other lanes).
 
 Keeps the green light ON for a fixed duration (5 minutes).
 
